@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClinicApp3.props" />
+</Project>
